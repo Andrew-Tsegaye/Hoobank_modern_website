@@ -32,9 +32,9 @@ To get the Hoobank Modern Website up and running on your local machine, follow t
       git clone https://github.com/Andrew-Tsegaye/Hoobank_modern_website.git
    ```
 2. Change to the project directory:
-  ```bash
+    ```shell
       cd Hoobank_modern_website
-   ```
+    ```
 3. Install the dependencies:
    ```bash
      npm install
